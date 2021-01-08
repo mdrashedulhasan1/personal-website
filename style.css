@@ -1,0 +1,92 @@
+.color1{
+    color:blue;
+}
+.color2{
+    color:tomato;
+    
+}
+.margin{
+    margin-bottom: 30px;
+}
+.Hire_Me{
+    
+    text-decoration: none;
+    background-color: tomato;
+    padding:10px 20px;
+    border-radius: 10px;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.myinfo{
+    height: 300px;
+    border:2px solid #33ff00;
+}
+.myinfo2{
+    height: 300px;
+    border:2px solid red;
+
+}
+
+.work{
+    text-align: center;
+}
+.lastet_work{
+    
+    height: 400px;
+    background-color: gainsboro;
+    border:2px solid #001aff;
+    
+    
+}
+.lastet_width{
+    
+ width:25%;
+ float:left;
+ padding-left: 5%;
+ margin-left: 2%;
+ 
+}  
+.last{
+    margin-top: 100px;
+    height: 300px;
+    border: 2px solid red;
+}
+.last img{
+    text-align: center;
+}
+.tapu{
+    
+    height: 300px;
+    border:2px solid tomato;
+}
+.tapu img{
+    margin-top: 20px;
+    position: relative;
+    margin-left:300px;
+    
+   
+}
+.tapu1{
+    position: absolute;
+    color: #47eaff;
+    left: 320px;
+    top: 1040px;
+   
+    
+}
+.tapu2{
+    position: absolute;
+    color: #47eaff;
+    left: 480px;
+    top: 1075px;
+}
+
+
+
+    
